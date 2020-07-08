@@ -33,11 +33,11 @@ function App() {
             <div class="divider-custom-line"></div>
           </div>
           <p class="pre-wrap masthead-subheading font-weight-light mb-0">
-            Undergraduate @ The University of Melbourne <br/>
-            Majoring in Computing and Information Systems <br/>
+            Undergraduate @ The University of Melbourne <br />
+            Majoring in Computing and Information Systems <br />
             <a class="btn btn-outline-light btn-social mx-1"
-                  href="https://www.github.com/xlelx"><i
-                    class="fab fa-fw fa-github"></i></a></p>
+              href="https://www.github.com/xlelx"><i
+                class="fab fa-fw fa-github"></i></a></p>
         </div>
       </header>
       <section class="page-section portfolio" id="portfolio">
@@ -57,7 +57,7 @@ function App() {
                   class="portfolio-item-caption d-flex align-items-center justify-content-center h-100 w-100">
                   <div class="portfolio-item-caption-content text-center text-white"><i
                     class="fas fa-plus fa-3x"></i></div>
-                </div><img class="img-fluid" src="img/sorting.PNG" alt="Sorting Visualizer"/>
+                </div><img class="img-fluid" src="img/sorting.PNG" alt="Sorting Visualizer" />
               </div>
             </div>
             <div class="col-md-6 col-lg-4 mb-5">
@@ -66,7 +66,7 @@ function App() {
                   class="portfolio-item-caption d-flex align-items-center justify-content-center h-100 w-100">
                   <div class="portfolio-item-caption-content text-center text-white"><i
                     class="fas fa-plus fa-3x"></i></div>
-                </div><img class="img-fluid" src="img\shadowdefend.PNG" alt="Tower Defense Game"/>
+                </div><img class="img-fluid" src="img\shadowdefend.PNG" alt="Tower Defense Game" />
               </div>
             </div>
             <div class="col-md-6 col-lg-4 mb-5">
@@ -75,7 +75,7 @@ function App() {
                   class="portfolio-item-caption d-flex align-items-center justify-content-center h-100 w-100">
                   <div class="portfolio-item-caption-content text-center text-white"><i
                     class="fas fa-plus fa-3x"></i></div>
-                </div><img class="img-fluid" src="img\chess.jpg" alt="Chess"/>
+                </div><img class="img-fluid" src="img\chess.jpg" alt="Chess" />
               </div>
             </div>
           </div>
@@ -97,7 +97,7 @@ function App() {
                       <div class="divider-custom-icon"><i class="fas fa-star"></i></div>
                       <div class="divider-custom-line"></div>
                     </div>
-                    <img class="img-fluid rounded mb-5" src="img\sorting.PNG" alt="Sorting Visualizer"/>
+                    <img class="img-fluid rounded mb-5" src="img\sorting.PNG" alt="Sorting Visualizer" />
                     <p class="mb-5">A webapp built in React to visualize well-known sorting algorithms.</p>
                     <button class="btn btn-primary" href="#" data-dismiss="modal"><i
                       class="fas fa-times fa-fw"></i>Close Window</button>
@@ -124,7 +124,7 @@ function App() {
                       <div class="divider-custom-icon"><i class="fas fa-star"></i></div>
                       <div class="divider-custom-line"></div>
                     </div>
-                    <img class="img-fluid rounded mb-5" src="img\shadowdefend.PNG" alt="Tower Defense Game"/>
+                    <img class="img-fluid rounded mb-5" src="img\shadowdefend.PNG" alt="Tower Defense Game" />
                     <p class="mb-5">A game of Tower Defense designed and implemented in Java.</p>
                     <button class="btn btn-primary" href="#" data-dismiss="modal"><i
                       class="fas fa-times fa-fw"></i>Close Window</button>
@@ -153,7 +153,7 @@ function App() {
                       <div class="divider-custom-icon"><i class="fas fa-star"></i></div>
                       <div class="divider-custom-line"></div>
                     </div>
-                    <img class="img-fluid rounded mb-5" src="img\chess.jpg" alt="Chess"/>
+                    <img class="img-fluid rounded mb-5" src="img\chess.jpg" alt="Chess" />
                     <p class="mb-5">Implemented a fully functional two-player chess game in Java, using
                                     object-oriented techniques.</p>
                     <button class="btn btn-primary" href="#" data-dismiss="modal"><i
@@ -213,11 +213,17 @@ function App() {
         <div class="container">
           <div class="row">
             <div class="col-lg-4 mb-5 mb-lg-0">
+              <h4 class="mb-4"></h4>
+            </div>
+            <div class="col-lg-4 mb-5 mb-lg-0">
               <h4 class="mb-4">SOCIAL MEDIA</h4><a class="btn btn-outline-light btn-social mx-1"
                 href="https://www.facebook.com/chintgel"><i class="fab fa-fw fa-facebook-f"></i></a>
-                <a class="btn btn-outline-light btn-social mx-1"
-                  href="https://www.linkedin.com/in/khant-thurein-han"><i
-                    class="fab fa-fw fa-linkedin-in"></i></a>
+              <a class="btn btn-outline-light btn-social mx-1"
+                href="https://www.linkedin.com/in/khant-thurein-han"><i
+                  class="fab fa-fw fa-linkedin-in"></i></a>
+            </div>
+            <div class="col-lg-4 mb-5 mb-lg-0">
+              <h4 class="mb-4"></h4>
             </div>
           </div>
         </div>
