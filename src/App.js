@@ -98,7 +98,8 @@ function App() {
                       <div class="divider-custom-line"></div>
                     </div>
                     <img class="img-fluid rounded mb-5" src="img\sorting.PNG" alt="Sorting Visualizer" />
-                    <p class="mb-5">A webapp built in React to visualize well-known sorting algorithms.</p>
+                    <p class="mb-5">A webapp built in React to visualize well-known sorting algorithms. 
+                    <a href="https://xlelx.github.io/SortingVisualizer">Link Here</a></p>
                     <button class="btn btn-primary" href="#" data-dismiss="modal"><i
                       class="fas fa-times fa-fw"></i>Close Window</button>
                   </div>
