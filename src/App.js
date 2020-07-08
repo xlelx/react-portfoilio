@@ -11,7 +11,7 @@ function App() {
           <div class="collapse navbar-collapse" id="navbarResponsive">
             <ul class="navbar-nav ml-auto">
               <li class="nav-item mx-0 mx-lg-1"><a class="nav-link py-3 px-0 px-lg-3 rounded js-scroll-trigger"
-                href="#portfolio">PORTFOLIO</a>
+                href="#portfolio">PROJECTS</a>
               </li>
               <li class="nav-item mx-0 mx-lg-1"><a class="nav-link py-3 px-0 px-lg-3 rounded js-scroll-trigger"
                 href="#about">ABOUT</a>
@@ -43,7 +43,7 @@ function App() {
       <section class="page-section portfolio" id="portfolio">
         <div class="container">
           <div class="text-center">
-            <h2 class="page-section-heading text-secondary mb-0 d-inline-block">PORTFOLIO</h2>
+            <h2 class="page-section-heading text-secondary mb-0 d-inline-block">PROJECTS</h2>
           </div>
           <div class="divider-custom">
             <div class="divider-custom-line"></div>
