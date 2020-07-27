@@ -5,7 +5,7 @@ function App() {
     <div className="App">
       <nav class="navbar navbar-expand-lg bg-secondary fixed-top" id="mainNav">
         <div class="container"><a class="navbar-brand js-scroll-trigger" href="#page-top">
-          <img src="img/whitelogo.png" width="30" height="30" alt="logo"></img>
+          <img src="img/whitelogo.png" width="75" height="75" alt="logo"></img>
         </a>
           <button class="navbar-toggler navbar-toggler-right font-weight-bold bg-primary text-white rounded"
             type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive"
